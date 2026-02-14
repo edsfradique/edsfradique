@@ -1,16 +1,55 @@
-## Hi there 👋
+### Olá! Eu sou o Eduardo Fradique 👋
 
-<!--
-**edsfradique/edsfradique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos conhecimentos. Bem-vindo ao meu perfil do GitHub!
 
-Here are some ideas to get you started:
+## ⚡ Estatísticas do GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-lake-one-32.vercel.app/api?username=edsfradique&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-lake-one-32.vercel.app/api/top-langs/?username=edsfradique&layout=compact&langs_count=7&theme=dracula&count_private=true&include_all_commits=true"/>
+</div>
+
+## 🔥 Streak de Commits
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edsfradique&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Streak"/>
+</div>
+
+## 📊 Gráfico de Atividades
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edsfradique&theme=dracula&bg_color=000000&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center" style="display: inline_block">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
+
+## 📫 Como me encontrar
+
+<div align="center"> 
+  <a href="https://github.com/edsfradique" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="mailto:edsfradique@outlook.com.br"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
+<div align="center">
+  
+  ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=edsfradique.edsfradique)
+  
+  ⭐️ **Total de estrelas:** ![Estrelas](https://img.shields.io/github/stars/edsfradique?style=social)
+  
+  📌 **Última atualização:** 14/02/2025
+  
+</div>
