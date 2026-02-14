@@ -33,5 +33,4 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos conhec
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=edsfradique.edsfradique" alt="Visitantes"/>
-  <p>📌 **Última atualização:** 14/02/2025</p>
 </div>
