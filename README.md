@@ -5,8 +5,8 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos conhec
 ## ⚡ Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-lake-one-32.vercel.app/api?username=edsfradique&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-lake-one-32.vercel.app/api/top-langs/?username=edsfradique&layout=compact&langs_count=7&theme=dracula&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-lake-one-32.vercel.app/api?username=edsfradique&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&v=1"/>
+  <img height="180em" src="https://github-readme-stats-lake-one-32.vercel.app/api/top-langs/?username=edsfradique&layout=compact&langs_count=7&theme=dracula&count_private=true&include_all_commits=true&v=1"/>
 </div>
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -32,6 +32,6 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos conhec
 ---
 
 <div align="center">
-  ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=edsfradique.edsfradique)
-  📌 **Última atualização:** 14/02/2025
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=edsfradique.edsfradique" alt="Visitantes"/>
+  <p>📌 **Última atualização:** 14/02/2025</p>
 </div>
