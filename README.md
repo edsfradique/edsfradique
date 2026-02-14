@@ -20,7 +20,6 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos conhec
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
 ## 📫 Como me encontrar
@@ -33,11 +32,6 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos conhec
 ---
 
 <div align="center">
-  
   ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=edsfradique.edsfradique)
-  
-  ⭐️ **Total de estrelas:** ![Estrelas](https://img.shields.io/github/stars/edsfradique?style=social)
-  
   📌 **Última atualização:** 14/02/2025
-  
 </div>
