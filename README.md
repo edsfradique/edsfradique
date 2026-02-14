@@ -9,18 +9,6 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos conhec
   <img height="180em" src="https://github-readme-stats-lake-one-32.vercel.app/api/top-langs/?username=edsfradique&layout=compact&langs_count=7&theme=dracula&count_private=true&include_all_commits=true"/>
 </div>
 
-## 🔥 Streak de Commits
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edsfradique&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Streak"/>
-</div>
-
-## 📊 Gráfico de Atividades
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edsfradique&theme=dracula&bg_color=000000&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center" style="display: inline_block">
